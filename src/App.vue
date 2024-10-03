@@ -24,3 +24,15 @@ export default {
   margin-top: 60px;
 }
 </style>
+<!-- src/App.vue -->
+<template>
+  <div id="app">
+    <TButton>Click Me</TButton>
+  </div>
+</template>
+
+<script>
+export default {
+  name: 'App',
+};
+</script>
