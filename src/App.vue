@@ -1,6 +1,9 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <div id="app">
+    <img alt="Vue logo" src="./assets/logo.png">
+    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <TButton>Click Me</TButton>
+  </div>
 </template>
 
 <script>
@@ -24,15 +27,23 @@ export default {
   margin-top: 60px;
 }
 </style>
-<!-- src/App.vue -->
-<template>
-  <div id="app">
-    <TButton>Click Me</TButton>
-  </div>
-</template>
 
-<script>
-export default {
-  name: 'App',
-};
-</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
