@@ -1,4 +1,4 @@
-<!-- src/components/TButton.vue -->
+<!-- src/components/Button.vue -->
 <template>
   <button class="td-button">
     <slot></slot>
