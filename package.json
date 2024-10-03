@@ -1,7 +1,6 @@
 {
   "name": "tdesign-vue-lib",
   "version": "0.1.0",
-  "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
@@ -41,9 +40,9 @@
     "not dead",
     "not ie 11"
   ],
-  "description": "## Project setup ``` npm install ```",
-  "main": "babel.config.js",
+  "description": "A Vue 3.x UI components library for TDesign",
+  "main": "src/main.js",
   "keywords": [],
-  "author": "",
+  "author": "Your Name",
   "license": "ISC"
 }
