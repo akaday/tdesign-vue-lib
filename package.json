@@ -44,5 +44,9 @@
   "main": "src/main.js",
   "keywords": [],
   "author": "Your Name",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akaday/tdesign-vue-lib.git"
+  }
 }
